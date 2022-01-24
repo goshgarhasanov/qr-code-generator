@@ -1,0 +1,3 @@
+# Kodu Çalışdırmaq Üçün  
+# ILK Olaraq "pip install -r requirements.txt"  komandasını çalıştırın
+# Sonra  "python run.py" komandasını çalıştırın  hazırdır...
